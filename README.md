@@ -5,7 +5,8 @@ In the past few years, both the City Hotel and Resort Hotel have experienced sig
 This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were canceled.
 ### Data Dictionary
 - hotel: One of the hotels is a resort hotel and the other is a city hotel.
-- is_canceled lead_time: Value indicating if the booking was canceled (1) or not (0).
+- is_canceled: Value indicating if the booking was canceled (1) or not (0).
+- lead_time: Number of days that elapsed between the entering date of the booking into the PMS and the arrival date.
 - arrival_date_year: Year of arrival date.
 - arrival_date_month: Month of arrival date with 12 categories: “January” to “December”.
 - arrival_date_week_number: Week number of the arrival date.
