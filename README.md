@@ -40,6 +40,18 @@ This dataset contains 119390 observations for a City Hotel and a Resort Hotel. E
 - email: Email (Not Real)
 - phone-number: Phone number (not real)
 ## Research Question
-1. What are the variables that effect hotel reservation cancellations?
-2. How can we make hotel reservations cancellation better?
-3. How all hotels be assisted in making pricing and promotional decisions?
+We have tried to answer the following Questions
+1. How Many Booking Were Cancelled?
+2. What is the booking ratio between Resort Hotel and City Hotel?
+3. What is the percentage of booking for each year?
+4. Which is the most busy month for hotel?
+5. From which country most guest come?
+6. How Long People Stay in the hotel?
+7. Which was the most booked accommodation type (Single, Couple, Family)?
+8. After that we made the predictive model to predict whether the booking will be cancelled or not
+We will:
+
+- Perform the Feature Engineering to make new featuers
+- Perform the Data Selection to select only relevant features
+- Visualize the data with the help of charts and graphs
+- Finally came with few insights by analyzing them .
