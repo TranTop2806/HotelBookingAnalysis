@@ -40,7 +40,7 @@ This dataset contains 119390 observations for a City Hotel and a Resort Hotel. E
 - email: Email (Not Real)
 - phone-number: Phone number (not real)
 ## Research Question
-We have tried to answer the following Questions
+I have tried to answer the following Questions
 1. How Many Booking Were Cancelled?
 2. What is the booking ratio between Resort Hotel and City Hotel?
 3. What is the percentage of booking for each year?
@@ -49,7 +49,8 @@ We have tried to answer the following Questions
 6. How Long People Stay in the hotel?
 7. Which was the most booked accommodation type (Single, Couple, Family)?
 8. After that we made the predictive model to predict whether the booking will be cancelled or not
-We will:
+
+I will:
 
 - Perform the Feature Engineering to make new featuers
 - Perform the Data Selection to select only relevant features
